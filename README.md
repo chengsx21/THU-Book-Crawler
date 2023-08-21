@@ -16,7 +16,7 @@
 
 2. 按下 `Fn` 与 `F12`, 打开开发者工具, 点击 “网络” 选项卡, 并刷新网页.
 
-    ![image-20230821144700199](/Users/avicii/Library/Application Support/typora-user-images/image-20230821144700199.png)
+    ![example](./example/cookie.png)
 
 3. 点击图中所示的网络请求, 将请求标头中的 **User-Agent**、**Cookie** 以及网页 **url**、书籍名称填写在 `config.json` 中.
 
